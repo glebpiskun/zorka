@@ -130,8 +130,8 @@ body {
 /* FOOTER */
 
 .footer {
-  margin-top: 30px;
-  padding: 20px 0;
+  margin-top: 0px;
+  padding: 10px 0;
   text-align: center;
 }
 
@@ -160,6 +160,8 @@ body {
     flex-direction: row;
     font-size: 12px;
     text-align: center;
+    margin-top: 0px;
+    padding: 0px 0px;
   }
 
   .footer .line,
@@ -167,6 +169,7 @@ body {
     width: 93%;
   }
 }
+
 
 /* HLAVNI */
 
