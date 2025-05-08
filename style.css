@@ -840,7 +840,7 @@ h3 {
     background-size: 100% auto;
     background-position: center top;
     height: 60vh;
-    margin-bottom: -5vh;
+    margin-bottom: 0vh;
   }
 
   .projects-title {
